@@ -12,4 +12,8 @@ Zarya of the Dawn 이라는 AI 이미지 생성을 사용 하여 출판된 만�
 
 
 [출처 링크](https://www.reuters.com/legal/ai-created-images-lose-us-copyrights-test-new-technology-2023-02-22/) 
+
 소스의 날자: 2023년 2월 23일
+
+
+### [돌아가기](../)
