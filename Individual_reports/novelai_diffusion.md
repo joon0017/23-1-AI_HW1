@@ -6,3 +6,5 @@ Stable Diffusion 기술을 사용하여 사용자가 입력한 텍스트를 이�
 [출처 링크](https://dataconomy.com/2022/10/novelai-novelaidiffusion/) 
 
 소스의 날자: 2022년 8월 04일
+
+### [돌아가기](../README.md)
