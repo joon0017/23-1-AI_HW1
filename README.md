@@ -16,3 +16,7 @@
 ---
 
 ## [1. AI 생성 이미지와 저작권](Individual_reports/ai_and_copyright.md "바로가기")
+
+---
+
+## [2. AI 이미지 생성 기술](Individual_reports/novelai_diffusion.md "바로가기")
